@@ -56,6 +56,15 @@
 PS：为啥叫不加酵母的面团呢？
 在法式烘焙中，面团有两种分类。一种是添加酵母的面团，很快就会发起来。一种是不加酵母的面团，面团会自己呼吸，然后慢慢膨大。我想成为不加酵母的面团！
 
+## Github总览
+- [pooled CRISPR screening relative](https://github.com/nanu4github/crispr-screening)
+- [APA relative](https://github.com/nanu4github/apa-analysis)
+- [disease & variants relative](https://github.com/nanu4github/disease-variant-sites)
+- [MeRIP-seq relative](https://github.com/nanu4github/merip-seq)
+
+  
+**PS：现在还处于搬运阶段，有些信息尚不完全或者看起来奇奇怪怪的！请谅解！需要的可以先去博客园笔记合集中进行查看！私密马赛！**
+
 ## 博客园笔记合集🔗
 
 - [CRISPR screening · 从筛选原理到 MAGeCK 质控](https://www.cnblogs.com/DoughWithoutYeast/collections/40753)
@@ -64,4 +73,6 @@ PS：为啥叫不加酵母的面团呢？
 - [MeRIP-seq · 上游和下游分析](https://www.cnblogs.com/DoughWithoutYeast/collections/45226)
 
 [博客园 · 全部随笔](https://www.cnblogs.com/DoughWithoutYeast/)
+
+
 (燥侯快搬！快点更新！催更催更)
